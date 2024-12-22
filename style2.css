@@ -1,0 +1,32 @@
+body {
+font-family: Arial, sans-serif; margin: 0;
+padding: 0;
+background-color:#fofofo; color: #333;
+}
+.biodata-container { max-width: 800px; margin: 20px auto; background: #fff; padding: 20px;
+border: 1px solid #ccc; border-radius: 8px;
+box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+h1 {
+text-align: left; color: black;
+margin-bottom: 10px;
+}
+.section {
+margin-bottom: 10px;
+}
+h2 {
+color: #333;
+margin-bottom: 10px;
+border-bottom: 2px solid #1a73e8; display: inline-block;
+}
+p, li {
+margin: 5px 0;
+line-height: 1.6;
+}
+ul {
+margin: 0;
+padding-left: 10px;
+}
+strong { color: #555;
+ 
+}
